@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.pyc
+*.py[oc]
+.venv/
+*.egg-info/
+build/
+dist/
+wheels/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+coverage/
+*.tsbuildinfo
+.eslintcache
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Docker
+docker-compose.override.yml
+
+# IDE
+.idea/
+.vscode/
+.claude/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime data
+backend/static/images/
+backend/channel_full_data.json
+*.db
+*.log
+
+# Session
+*.session
+*.session-journal
+
+# Env (keep examples only)
+.env
+.env.*
+*.local
+!/.env.example
+
+# Test and tool artifacts
+cypress/videos/
+cypress/screenshots/
+__screenshots__/
+*.timestamp-*-*.mjs

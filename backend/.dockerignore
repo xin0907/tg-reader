@@ -1,0 +1,12 @@
+.venv
+__pycache__/
+*.pyc
+.git
+.vscode
+.env*
+*.session
+*.session-journal
+static/images/
+channel_full_data.json
+*.db
+*.log
