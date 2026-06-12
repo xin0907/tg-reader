@@ -14,6 +14,24 @@ read/unread management.
 - Lazy-load Telegram images through `/images/{channel_id}/{message_id}.jpg`.
 - Store messages by `(channel_id, message_id)` to avoid multi-channel ID collisions.
 
+## Screenshots
+
+Message list with channel sidebar, filters, read status, and image thumbnails:
+
+![Message list](docs/screenshots/message-list.png)
+
+Hover preview for long message content:
+
+![Message hover preview](docs/screenshots/message-hover-preview.png)
+
+Image lightbox with gallery navigation:
+
+![Image lightbox](docs/screenshots/image-lightbox.png)
+
+Read-state actions and Telegram link shortcuts:
+
+![Read-state actions](docs/screenshots/read-state-actions.png)
+
 ## Stack
 
 - Backend: FastAPI, SQLAlchemy async, Pydantic, Telethon
