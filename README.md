@@ -38,6 +38,17 @@ Read-state actions and Telegram link shortcuts:
 - Frontend: Vue 3, TypeScript, Vite, Element Plus
 - Database: PostgreSQL
 
+## Responsible Use
+
+TG Reader uses the official Telegram API through Telethon and only reads
+channels that are accessible from the logged-in Telegram account. It is intended
+for personal reading, filtering, and local message management.
+
+Do not use this project to redistribute channel content, bypass access
+restrictions, mirror Telegram channels, or collect Telegram data for AI training
+or other unauthorized purposes. Users are responsible for respecting Telegram's
+terms and the rights of channel owners.
+
 ## Configuration
 
 The repository only commits one public environment template:
