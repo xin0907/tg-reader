@@ -1,5 +1,7 @@
 # TG Reader
 
+**Language:** English | [简体中文](README.zh-CN.md)
+
 TG Reader is a personal Telegram broadcast-channel reader. It refreshes the
 channel list from your logged-in Telegram account, syncs selected channels on
 demand, and provides a web UI for reading, filtering, image preview, and
