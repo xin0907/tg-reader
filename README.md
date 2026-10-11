@@ -199,6 +199,16 @@ Docker Compose:
 docker compose config --quiet
 ```
 
+## Support my development ☕
+
+If you find this project useful, you can support its development on [Ko-fi](https://ko-fi.com/xinnai). Your support helps me build and improve open-source software.
+
+Tips are voluntary and do not unlock or change any feature. You can also use Alipay or WeChat:
+
+| Alipay | WeChat |
+| --- | --- |
+| <img src="assets/alipay-qr.png" alt="Alipay QR code" width="220"> | <img src="assets/wechat-qr.png" alt="WeChat QR code" width="220"> |
+
 ## License
 
-MIT
+Source code is under the [MIT License](LICENSE). The QR code images in `assets/` are not covered by the MIT License; see [assets/README.md](assets/README.md).

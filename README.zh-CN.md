@@ -183,6 +183,16 @@ Docker Compose：
 docker compose config --quiet
 ```
 
+## 赞赏
+
+如果这个项目对你有帮助，欢迎通过 [Ko-fi](https://ko-fi.com/xinnai) 支持开发。你的支持会帮助我持续开发和改进开源软件。
+
+赞赏完全自愿，不会影响任何功能。也可以使用支付宝或微信：
+
+| 支付宝 | 微信 |
+| --- | --- |
+| <img src="assets/alipay-qr.png" alt="支付宝赞赏码" width="220"> | <img src="assets/wechat-qr.png" alt="微信赞赏码" width="220"> |
+
 ## License
 
-MIT
+源代码使用 [MIT 许可证](LICENSE)。`assets/` 中的赞赏码图片不在 MIT 授权范围内，详见 [assets/README.md](assets/README.md)。
